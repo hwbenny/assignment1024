@@ -1,0 +1,48 @@
+#video1 {
+  position: auto;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  top: -20vh;
+}
+
+/* 样式为 video2 */
+#video2 {
+  position: auto;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  top: -20vh;
+}
+
+h1{
+	position:relative;
+	top:50vh;
+	left:20vw;
+	background-color:white;
+}
+
+.leading-banner {
+  height: 200vh;
+  background-color: #ccc;
+}
+
+.middle-section {
+  height: 200vh;
+  background-color: #f0f0f0;
+}
+
+.ending-section {
+  height: 200vh;
+  background-color: #888;
+}
+
+.sticky-video {
+  position: sticky;
+  top: auto;
+  background-color: white;
+}
